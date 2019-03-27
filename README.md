@@ -19,5 +19,5 @@ psql my_database < export.sql
 2.  Ejecutar query.sql
 
 ```
-psql my_database < query.sql
+psql my_database < solution/query.sql
 ```
